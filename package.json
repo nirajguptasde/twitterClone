@@ -1,0 +1,25 @@
+{
+  "name": "twitterclone",
+  "version": "1.0.0",
+  "description": "Twitter Clone using Node, Express, Mongo and Socket IO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajguptasde/twitterClone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirajguptasde/twitterClone/issues"
+  },
+  "homepage": "https://github.com/nirajguptasde/twitterClone#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
